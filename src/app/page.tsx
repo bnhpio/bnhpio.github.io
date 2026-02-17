@@ -4,17 +4,17 @@ const projects = [
   {
     name: "findex.work",
     url: "https://findex.work",
-    description: "Decentralized job marketplace connecting talent with Web3 opportunities.",
+    description: "Decentralized index tokenization platform — S&P 500 for crypto.",
   },
   {
     name: "thyme.sh",
     url: "https://thyme.sh",
-    description: "Developer tooling for time-tracked smart contract deployments.",
+    description: "Platform for automating web3 function execution.",
   },
   {
     name: "bckit.cc",
     url: "https://bckit.cc",
-    description: "Blockchain toolkit — batteries-included SDK for chain integrations.",
+    description: "Tools for web3 developers.",
   },
 ];
 
